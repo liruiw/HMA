@@ -1,10 +1,10 @@
-# Modeling Real-World Action-Video Dynamics with Heterogeneous Masked Autoregression
+# Learning Robotic Video Dynamics with Heterogeneous Masked Autoregression
 
 [![HF Models](https://img.shields.io/badge/%F0%9F%A4%97-Models-yellow?style=for-the-badge)](https://huggingface.co/liruiw/hma-base)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.2.0-EE4C2C.svg?style=for-the-badge&logo=pytorch)](https://pytorch.org/get-started/locally/)
 [![Python](https://img.shields.io/badge/python-3.10-blue?style=for-the-badge)](https://www.python.org)
 
-[Arxiv]() [Website](https://liruiw.github.io/hma) [HF Demo](https://huggingface.co/spaces/liruiw/hma)
+[Arxiv]() [Website](https://liruiw.github.io/hma) [Demo](https://liruiw.github.io/hma/hma_demo)
 <hr style="border: 2px solid gray;"></hr>
 
 ![](assets/hma_framework.png)
@@ -108,7 +108,7 @@ You can find pretrained HMA checkpoints here. At the moment we provide the follo
 | Model                                                                  |   Size         |
 |--------------------------------------------------------------------------------|----------------|
 | [HMA-MagVit](https://huggingface.co/liruiw/hma-base-disc)                 |  362M Params  |
-| [HMA-MAR](https://huggingface.co/liruiw/hpt-base-cont)                 |  1B Params  |
+| [HMA-MAR](https://huggingface.co/liruiw/hma-base-cont)                 |  1B Params  |
 
 
 ### Evaluation
