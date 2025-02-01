@@ -1,0 +1,6 @@
+domains: >
+  bridge_data_v2,
+  fractal20220817_data,
+  language_table,
+  kaist_nonprehensile_converted_externally_to_rlds,
+  ucsd_pick_and_place_dataset_converted_externally_to_rlds

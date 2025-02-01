@@ -1,0 +1,45 @@
+accelerate==0.30.1
+torchvision==0.18.0
+lpips==0.1.4
+matplotlib
+transformers==4.41.0
+torch==2.3.0
+lightning>2.3.1
+tqdm==4.66.4
+wandb
+xformers==0.0.26.post1
+git+https://github.com/janEbert/mup.git@fsdp-fix
+
+# For flash-attn
+wheel
+packaging
+ninja
+einops
+
+scikit-image
+diffusers  # used for stable diffusion tokenizers
+
+# datasets
+opencv-python
+tensorflow_datasets
+tensorflow
+gcsfs
+
+# official MaskGIT
+flax
+
+# Robomimic
+mujoco
+robomimic==0.3.0
+robosuite==1.4.1    # this handles mujoco_py installation
+gym
+pyvirtualdisplay
+IPython
+dill
+zarr
+hydra-core
+
+# demo
+gdown
+gradio
+opencv-python

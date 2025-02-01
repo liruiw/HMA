@@ -1,0 +1,11 @@
+domains: >
+  bridge_data_v2,
+  fractal20220817_data,
+  language_table,
+  ucsd_pick_and_place_dataset_converted_externally_to_rlds,
+  kaist_nonprehensile_converted_externally_to_rlds,
+  ucsd_kitchen_dataset_converted_externally_to_rlds,
+  berkeley_fanuc_manipulation,
+  bc_z,
+  cmu_play_fusion,
+  kuka

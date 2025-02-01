@@ -1,0 +1,16 @@
+.venv
+venv
+*__pycache__/
+data/
+.idea/
+subsample_val.py
+wandb
+output
+success.csv
+*.pyc
+*.DS_Store
+notebooks/Cosmos-Tokenizer
+notebooks/pretrained_ckpts
+langtable
+hma.egg-info/
+.gradio
