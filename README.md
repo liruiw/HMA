@@ -4,7 +4,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.2.0-EE4C2C.svg?style=for-the-badge&logo=pytorch)](https://pytorch.org/get-started/locally/)
 [![Python](https://img.shields.io/badge/python-3.10-blue?style=for-the-badge)](https://www.python.org)
 
-[Arxiv]() [Website](https://liruiw.github.io/hma) [Demo](https://liruiw.github.io/hma/hma_demo)
+[Arxiv](https://arxiv.org/pdf/2502.04296) [Website](https://liruiw.github.io/hma) [Demo](https://liruiw.github.io/hma/hma_demo)
 <hr style="border: 2px solid gray;"></hr>
 
 ![](assets/hma_framework.png)
